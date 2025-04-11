@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Text Writer</string>
+    <string name="type_here">Type here...</string>
+    <string name="_00_00">00:00</string>
+    <string name="wpm_0">WPM: 0</string>
+    <string name="typing_practice">Typing Practice</string>
+    <string name="load_text_from_assets">Load Text from Assets</string>
+    <string name="load_file_from_device">Load File from Device</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/load_asset"
+        android:title="@string/load_text_from_assets" />
+    <item
+        android:id="@+id/load_file"
+        android:title="@string/load_file_from_device" />
+</menu>
